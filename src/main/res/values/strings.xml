@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">项目测试</string>
+    <string name="button_name">发送</string>
+    <string name="text">状态显示</string>
+</resources>
