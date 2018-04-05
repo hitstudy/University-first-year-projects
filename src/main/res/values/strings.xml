@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">项目测试</string>
     <string name="button_name">发送</string>
-    <string name="text">状态显示</string>
+    <string name="connectstate">连接状态显示</string>
+    <string name="sendstate">发送状态显示</string>
+    <string name="serve">服务器未传回数据</string>
 </resources>
